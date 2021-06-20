@@ -29,3 +29,6 @@ Getting Started
 
 
 # Android_Dessert_Clicker
+
+![Screenshot_20210620_113122](https://user-images.githubusercontent.com/26829975/122683724-5ed5e680-d1be-11eb-9859-af26528fe18a.png)
+
